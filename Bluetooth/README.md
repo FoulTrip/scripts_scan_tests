@@ -26,7 +26,7 @@ pip install bleak pytube pydub
 ## Usage
  1. Run the script with Python
 ```bash 
-python your_script_name.py
+python EyeToothMulti.py
 ```
  2. Follow the prompts to choose an option and interact with Bluetooth devices.
 
